@@ -1,0 +1,6 @@
+{
+  "appTitle": "qr_wifi",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
